@@ -5,4 +5,5 @@ def fact(x):
 
 x=int(input())
 print(fact(x))
+print(fact(x))
 print(x)
